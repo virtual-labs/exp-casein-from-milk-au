@@ -1,0 +1,25 @@
+#solutionIcon {
+	display: inline;
+	margin-left: -3%;
+}
+#solutionTxt {
+	margin-left: 20%;
+    margin-top: -26%;
+}
+#readingIcon {
+	display: inline;
+}
+#readingTxt {
+	margin-left: 25%;
+    margin-top: -29%;
+}
+.instrClass {
+    font-weight: normal;
+    font-size: 116%;
+}
+#error_icon1 {
+	display: none;
+}
+#error_icon2 {
+	display: none;
+}

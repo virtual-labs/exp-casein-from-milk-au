@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Milk is deficient in which very important mineral ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Magnesium",
+        "b": "Sulphur",
+        "c": "Calcium",
+        "d": "Iron"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Major protein present in milk is: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Albumin ",
+        "b": "Lactose.",
+        "c": "Lactin.",
+        "d": "Casein."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.  The sugar present in milk: ",
+      "answers": {
+        "a": "choline",
+        "b": "lactose",
+        "c": "starch.",
+        "d": "fructose."
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  What happens to pH when acid is added to a solution ?",
+        "answers": {
+          "a": "Decreases pH.",
+          "b": "Increases pH.",
+          "c": "Can increase or decrease pH.",
+          "d": "None of the above."
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
