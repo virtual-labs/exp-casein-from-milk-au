@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Milk is deficient in which very important mineral ?",
+      "answers": {
+        "a": "Magnesium",
+        "b": "Sulphur",
+        "c": "Calcium",
+        "d": "Iron"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  Major protein present in milk is: ",
+      "answers": {
+        "a": " Albumin ",
+        "b": "Lactose.",
+        "c": "Lactin.",
+        "d": "Casein."
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.  The sugar present in milk: ",
+      "answers": {
+        "a": "choline",
+        "b": "lactose",
+        "c": "starch.",
+        "d": "fructose."
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  What happens to pH when acid is added to a solution ?",
+        "answers": {
+          "a": "Decreases pH.",
+          "b": "Increases pH.",
+          "c": "Can increase or decrease pH.",
+          "d": "None of the above."
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}

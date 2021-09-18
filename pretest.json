@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  What type of protein is casein ?",
+      "answers": {
+        "a": "Sulphur containing",
+        "b": "Phosphoprotein",
+        "c": "Aminoprotein",
+        "d": "Lactoglobulin"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  What is the role of ethanol in precipitation ?",
+      "answers": {
+        "a": " To kill microbes in milk.",
+        "b": "To remove fat in milk.",
+        "c": "For salt removal.",
+        "d": "None of the above."
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.  What is Isoelectric pH ?",
+      "answers": {
+        "a": "pH at which equal amounts of proton acceptor and proton donor are present.",
+        "b": "PH at which the species show maximum solubility.",
+        "c": "pH at which the charge of the species is neutral.",
+        "d": "All the above"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  If the PH of a protein is below its isoelectric point, what will happen ?",
+        "answers": {
+          "a": "Protein will aggregate.",
+          "b": "Protein will precipitate.",
+          "c": "Protein will be soluble.",
+          "d": "None of the above."
+        },
+
+            
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
